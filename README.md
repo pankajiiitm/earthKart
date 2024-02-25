@@ -1,7 +1,7 @@
 # earthKart
 # Project Name
 
-Short description or tagline of your project.
+Shoping web application
 
 ![Project Screenshot](screenshots/screenshot.png)
 
@@ -16,7 +16,7 @@ Short description or tagline of your project.
 
 ## About
 
-Brief description of your project, its purpose, and key features.
+earthKart is a shoping web application , where you can purchase any types of things .
 
 ## Demo
 
